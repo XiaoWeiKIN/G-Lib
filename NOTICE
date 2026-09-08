@@ -1,0 +1,14 @@
+G-Lib
+Copyright 2026 G-Lib authors
+
+This product includes software developed at VictoriaMetrics
+(https://github.com/VictoriaMetrics/VictoriaMetrics), licensed under the
+Apache License, Version 2.0.
+
+The following packages are ported from VictoriaMetrics:
+
+  bytesutil/   <- lib/bytesutil
+  slicesutil/  <- lib/slicesutil
+  fasttime/    <- lib/fasttime
+  atomicutil/  <- lib/atomicutil (partial)
+  timeutil/    <- lib/timeutil  (partial)
